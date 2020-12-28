@@ -1,0 +1,28 @@
+{
+    "name": "teammember",
+    "version": "1.0.0",
+    "description": "The digital team app official team member.",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/digitalteamapp/teammember.git"
+    },
+    "keywords": [
+        "digital",
+        "team",
+        "app",
+        "teammember"
+    ],
+    "author": "Gerhard Richard Edens",
+    "license": "GPL-3.0-or-later",
+    "bugs": {
+        "url": "https://github.com/digitalteamapp/teammember/issues"
+    },
+    "homepage": "https://github.com/digitalteamapp/teammember#readme",
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}

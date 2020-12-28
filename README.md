@@ -1,2 +1,2 @@
-# teammember
-The official digital team app team member repo.
+# teamoperator
+The digital team app docker operator.
